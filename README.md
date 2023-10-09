@@ -1,5 +1,4 @@
 # Checkers-Game
-# Chess Game Solver
 
 ## Problem Definition
 
